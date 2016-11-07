@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * Test1
 * [存储](test/memory.md)
-* Metrics
+* [Metrics](metrics.md)
 
